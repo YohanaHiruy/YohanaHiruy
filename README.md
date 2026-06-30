@@ -36,6 +36,6 @@ Tech Stack
 | Tools | Git, GitHub, VS Code |
 
 Contact
-LinkedIn: https://www.linkedin.com/yohana hiruy
+LinkedIn: https://www.linkedin.com/yohanahiruy
 Email: johanhgf5@gmail.com
 
