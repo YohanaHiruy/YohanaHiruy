@@ -1,6 +1,6 @@
- Yohana Hiruy
+# Hi, I'm Yohana 👋
 
-Front-End focused Web Developer (Computer Science graduate) working with HTML, CSS, JavaScript, React, and Node.js.
+ Aspiring MERN Stack Developer(Computer Science graduate) working with HTML, CSS, JavaScript, React, MongoDB and Node.js.
 
 Based in Addis Ababa, Ethiopia. Open to remote front-end and full-stack opportunities.
 
