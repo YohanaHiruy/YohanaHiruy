@@ -32,7 +32,7 @@ Tech Stack
 |---|---|
 | Languages | JavaScript, Python, SQL |
 | Front-End | React, HTML5, CSS3 |
-| Back-End | Mongo DB, Node.js (in progress) |
+| Back-End | Mongo DB, Node.js |
 | Tools | Git, GitHub, VS Code |
 
 Contact
