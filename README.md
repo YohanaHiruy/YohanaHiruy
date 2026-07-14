@@ -31,7 +31,7 @@ Tech Stack
 | Category | Technologies |
 |---|---|
 | Languages | JavaScript, Python, SQL |
-| Front-End | React, HTML5, CSS3 |
+| Front-End | React, HTML5, CSS3,tailwind css |
 | Back-End | Mongo DB, Node.js |
 | Tools | Git, GitHub, VS Code |
 
