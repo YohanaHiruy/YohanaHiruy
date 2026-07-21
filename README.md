@@ -73,7 +73,6 @@ A blog platform with posts and threaded comments — built around a real one-to-
 
 ---
 
-### 📊 GitHub Stats
 
 <div align="center">
 
