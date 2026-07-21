@@ -1,6 +1,6 @@
 # Hi, I'm Yohana 👋
 
- Aspiring MERN Stack Developer(Computer Science graduate) working with HTML, CSS, JavaScript, React, MongoDB and Node.js.
+   A MERN Stack Developer(Computer Science graduate) working with HTML, CSS, JavaScript, React, MongoDB and Node.js.
 
 Based in Addis Ababa, Ethiopia. Open to remote front-end and full-stack opportunities.
 
