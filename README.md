@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Yohana Hiruy 👋
+# Hi, I'm Yohana 👋
 
-### Full-Stack Developer (MERN) | Turning ideas into working apps, one debug session at a time
+### Full-Stack Developer (MERN) | Turning ideas into working apps!
 
 📍 Addis Ababa, Ethiopia &nbsp;•&nbsp; 🟢 Open to remote front-end & full-stack roles
 
@@ -41,7 +41,7 @@ Full CRUD MERN app to track job applications through every stage — Applied →
 </td>
 <td width="50%">
 
-**🌸 [Maison Parfum — E-Commerce Store](https://github.com/YohanaHiruy/perfume-store)**
+**🌸 [johan's Parfum — E-Commerce Store](https://github.com/YohanaHiruy/perfume-store)**
 
 A boutique-style perfume store with multi-page routing, dynamic product pages, and a live shopping cart with quantity tracking and running totals.
 
