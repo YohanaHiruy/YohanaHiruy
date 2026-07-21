@@ -84,6 +84,6 @@ A blog platform with posts and threaded comments — built around a real one-to-
 ---
 
 ### 📫 find me at
-linkdin https://linkedin.com/in/YohanaHiruy
-gmail:johanhgf@gmail.com
-[![Gmail(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johanhgf5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YohanaHiruy)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johanhgf5@gmail.com)
+
