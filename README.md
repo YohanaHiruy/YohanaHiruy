@@ -77,7 +77,7 @@ A blog platform with posts and threaded comments — built around a real one-to-
 
 <div align="center">
 
-![Yohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YohanaHiruy&show_icons=true&theme=default&hide_border=true)
+
 
 </div>
 
@@ -86,6 +86,4 @@ A blog platform with posts and threaded comments — built around a real one-to-
 ### 📫 find me at
 linkdin https://linkedin.com/in/YohanaHiruy
 gmail:johanhgf@gmail.com
-
-(https://linkedin.com/in/yohana-hiruy)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johanhgf5@gmail.com)
+[![Gmail(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johanhgf5@gmail.com)
