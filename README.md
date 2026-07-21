@@ -1,41 +1,91 @@
-# Hi, I'm Yohana 👋
+<div align="center">
 
-   A MERN Stack Developer(Computer Science graduate) working with HTML, CSS, JavaScript, React, MongoDB and Node.js.
+# Hi, I'm Yohana Hiruy 👋
 
-Based in Addis Ababa, Ethiopia. Open to remote front-end and full-stack opportunities.
+### Full-Stack Developer (MERN) | Turning ideas into working apps, one debug session at a time
 
- Projects
- 
-Weather App
-Fetches live weather data from a public API based on user input and displays current conditions.
-Stack: JavaScript, REST API integration
-Repo: https://github.com/YohanaHiruy/weather-app
+📍 Addis Ababa, Ethiopia &nbsp;•&nbsp; 🟢 Open to remote front-end & full-stack roles
 
-React Stopwatch
-Stopwatch application built with React state and hooks, including start, stop, and reset controls.
-Stack: React, JavaScript
-Repo: https://github.com/YohanaHiruy/React-stopwatch
+</div>
 
- To-Do List
-Task manager supporting add, complete, and delete actions with persistent UI state.
-Stack: JavaScript
-Repo: https://github.com/YohanaHiruy/To-Do-List
+---
 
-Counter App
-Practice project demonstrating React component state management.
-Stack: React
-Repo: https://github.com/YohanaHiruy/counter-react
+### 🧰 Tech Stack
 
-Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-| Category | Technologies |
-|---|---|
-| Languages | JavaScript, Python, SQL |
-| Front-End | React, HTML5, CSS3,tailwind css |
-| Back-End | Mongo DB, Node.js |
-| Tools | Git, GitHub, VS Code |
+---
 
-Contact
-LinkedIn: https://www.linkedin.com/yohanahiruy
-Email: johanhgf5@gmail.com
+### 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
+**📋 [Job Application Tracker](https://github.com/YohanaHiruy/job-application-tracker)**
+
+Full CRUD MERN app to track job applications through every stage — Applied → Interview → Offer → Rejected — with live MongoDB persistence and a status-update dashboard.
+
+`React` `Express` `MongoDB` `Tailwind`
+
+</td>
+<td width="50%">
+
+**🌸 [Maison Parfum — E-Commerce Store](https://github.com/YohanaHiruy/perfume-store)**
+
+A boutique-style perfume store with multi-page routing, dynamic product pages, and a live shopping cart with quantity tracking and running totals.
+
+`React Router` `Express` `MongoDB` `Tailwind`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🏋️ [PR Tracker](https://github.com/YohanaHiruy/pr-tracker)**
+
+A fitness progress app that logs workouts and automatically calculates estimated one-rep max using the Epley formula, with a bold dark athletic UI.
+
+`React` `Express` `MongoDB` `Tailwind`
+
+</td>
+<td width="50%">
+
+**✍️ [Blog CMS](https://github.com/YohanaHiruy/blog-cms)**
+
+A blog platform with posts and threaded comments — built around a real one-to-many MongoDB relationship between posts and their comments.
+
+`React Router` `Express` `MongoDB` `Tailwind`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Yohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YohanaHiruy&show_icons=true&theme=default&hide_border=true)
+
+</div>
+
+---
+
+### 📫 find me at
+linkdin https://linkedin.com/in/YohanaHiruy
+gmail:johanhgf@gmail.com
+
+(https://linkedin.com/in/yohana-hiruy)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johanhgf5@gmail.com)
