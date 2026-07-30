@@ -32,16 +32,16 @@
 <tr>
 <td width="50%">
 
-**📋 [Job Application Tracker](https://github.com/YohanaHiruy/job-application-tracker)**
+**🚗 [AutoMarket — Car Marketplace](https://github.com/YohanaHiruy/Car-market)**
 
-Full CRUD MERN app to track job applications through every stage — Applied → Interview → Offer → Rejected — with live MongoDB persistence and a status-update dashboard.
+A full-stack car marketplace with real JWT authentication — users register, log in, and post listings that only they can edit or delete, enforced on the backend.
 
-`React` `Express` `MongoDB` `Tailwind`
+`React Router` `Express` `MongoDB` `JWT` `Tailwind`
 
 </td>
 <td width="50%">
 
-**🌸 [johan's Parfum — E-Commerce Store](https://github.com/YohanaHiruy/perfume-store)**
+**🌸 [Johan's Parfum — E-Commerce Store](https://github.com/YohanaHiruy/perfume-store)**
 
 A boutique-style perfume store with multi-page routing, dynamic product pages, and a live shopping cart with quantity tracking and running totals.
 
@@ -73,16 +73,7 @@ A blog platform with posts and threaded comments — built around a real one-to-
 
 ---
 
-
-<div align="center">
-
-
-
-</div>
-
----
-
 ### Get in touch
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohana-hiruy-55b225380)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johanhgf5@gmail.com)
-
