@@ -2,7 +2,7 @@
 
 # Hi, I'm Yohana 👋
 
-### Data Analyst | Technically-Grounded Problem Solver
+### Data Analyst | Turning Messy Data Into Clear Answers
 
 📍 Addis Ababa, Ethiopia &nbsp;•&nbsp; 🟢 Open to data & analytical roles
 
