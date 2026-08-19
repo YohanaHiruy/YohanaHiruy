@@ -25,9 +25,9 @@
 
 ### 📊 Data Analysis Projects
 
-*(add links here as you complete each one — see below)*
+on the make....
 
----
+
 
 ### 🚀 Technical Projects
 
@@ -39,7 +39,7 @@ I also independently designed and deployed five full-stack web applications (Rea
 - 🌸 [Johan's Parfum — E-Commerce Store](https://github.com/YohanaHiruy/perfume-store)
 - 📋 [Job Application Tracker](https://github.com/YohanaHiruy/job-application-tracker)
 
----
+
 
 ### Get in touch
 
